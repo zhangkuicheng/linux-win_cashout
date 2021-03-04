@@ -8,6 +8,7 @@ Step 2: Download jq.exe (https://github.com/stedolan/jq/releases), rename the pr
 Step 3: Go to the directory where the cashout.sh file is stored, right-click and select "git bash here"
 
 Execute the command: /cashout.sh 
+
 Execute the command: ./cashout.sh cashout-all 5 
 
 You can also run the script in the linux environment.
