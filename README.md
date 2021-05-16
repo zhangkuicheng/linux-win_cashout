@@ -1,5 +1,5 @@
 # linux-win_cashout
-===
+
 Optimized the official cashout.sh script so that the cashout.sh script can also be executed in git under windows.
 
 Step 1: Download and install git.exe (https://git-scm.com/download/win), all are installed by default.
